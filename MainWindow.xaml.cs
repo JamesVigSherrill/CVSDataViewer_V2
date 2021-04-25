@@ -26,7 +26,7 @@ namespace CVSDataViewer_V2
 {
     public partial class MainWindow : Window
     {
-        public DataClass Data; 
+        public DataClass Data;   
 
         private DispatcherTimer _dispatcherTimer;
         private InitVarsClass2 _initialization;
